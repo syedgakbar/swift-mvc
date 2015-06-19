@@ -1,0 +1,1 @@
+<?php include _ROOT_.'/theme/footer.php' ?>

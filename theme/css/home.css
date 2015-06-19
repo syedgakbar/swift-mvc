@@ -1,0 +1,29 @@
+.helloBox {
+	margin:40px 0;
+	text-align:center;
+}
+
+.easyWrapper {
+	margin:0 auto 40px auto;
+}
+
+.easyTitle {
+	font-size:2rem;
+	margin:20px 0;
+	text-align:center;
+}
+
+.easyCountBox {
+	font-size:8rem;
+	text-align:center;
+	background-color:#ABEC87;
+	padding:2rem 0;
+}
+
+.easyCountBox2 {
+	background-color:#E7F6FF;
+}
+
+.easyCountBox3 {
+	background-color:#19b5f8;
+}
